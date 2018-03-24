@@ -1,4 +1,4 @@
-# Angular5FirstAppUdemy
+# Angular 5 First App (Udemy)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
