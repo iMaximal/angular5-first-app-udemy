@@ -1,4 +1,4 @@
-import {Component, OnInit} from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component(<Component>{
   selector: 'app-warning-alert',
@@ -14,7 +14,7 @@ import {Component, OnInit} from '@angular/core';
       }
   `]
 })
-export class WarningAlertComponent implements OnInit {
+export class WarningAlertComponent {
 
   constructor() { }
 
