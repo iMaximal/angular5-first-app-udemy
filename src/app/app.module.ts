@@ -12,7 +12,7 @@ import { SuccessAlertComponent } from './success-alert/success-alert.component';
 
 
 @NgModule({
-  // register the app component here because even throgh it's also used in bootstrap
+  // register the app component here because even through it's also used in bootstrap
   declarations: [
     AppComponent,
     ServerComponent,
